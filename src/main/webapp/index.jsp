@@ -44,7 +44,7 @@
       
       <div class="container-fluid">
         <div class="d-flex align-items-center">
-          <div class="site-logo mr-auto w-25"><a href="index.html">OneSchool</a></div>
+          <div class="site-logo mr-auto w-25"><a href="index.html">Vertebrate & IT Business</a></div>
 
           <div class="mx-auto text-center">
             <nav class="site-navigation position-relative text-right" role="navigation">
@@ -131,9 +131,9 @@
                 <a href="course-single.html"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$20</span>
+                <span class="course-price">20000</span>
                 <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
-                <h3><a href="#">Study Law of Physics</a></h3>
+                <h3><a href="#">AWS-DEVOPS</a></h3>
                 <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>
               </div>
               <div class="d-flex border-top stats">
@@ -147,9 +147,9 @@
                 <a href="course-single.html"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$99</span>
+                <span class="course-price">15000</span>
                 <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
-                <h3><a href="#">Logo Design Course</a></h3>
+                <h3><a href="#">WEB-DEVLOPMENT</a></h3>
                 <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>
               </div>
               <div class="d-flex border-top stats">
@@ -163,9 +163,9 @@
                 <a href="course-single.html"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$99</span>
+                <span class="course-price">10000</span>
                 <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
-                <h3><a href="#">JS Programming Language</a></h3>
+                <h3><a href="#">JAVA</a></h3>
                 <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>
               </div>
               <div class="d-flex border-top stats">
@@ -181,9 +181,9 @@
                 <a href="course-single.html"><img src="images/img_4.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$20</span>
+                <span class="course-price">5000</span>
                 <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
-                <h3><a href="#">Study Law of Physics</a></h3>
+                <h3><a href="#">PYTHON</a></h3>
                 <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>
               </div>
               <div class="d-flex border-top stats">
@@ -197,7 +197,7 @@
                 <a href="course-single.html"><img src="images/img_5.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$99</span>
+                <span class="course-price">5000</span>
                 <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
                 <h3><a href="#">Logo Design Course</a></h3>
                 <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>
@@ -213,7 +213,7 @@
                 <a href="course-single.html"><img src="images/img_6.jpg" alt="Image" class="img-fluid"></a>
               </figure>
               <div class="course-inner-text py-4 px-4">
-                <span class="course-price">$99</span>
+                <span class="course-price">20000</span>
                 <div class="meta"><span class="icon-clock-o"></span>4 Lessons / 12 week</div>
                 <h3><a href="#">JS Programming Language</a></h3>
                 <p>Lorem ipsum dolor sit amet ipsa nulla adipisicing elit. </p>
